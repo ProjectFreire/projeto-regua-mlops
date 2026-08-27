@@ -1,0 +1,41 @@
+id,borough,periodo_dia,dia_semana,fim_de_semana,idade_vitima,idade_suspeito,duracao_minutos,ambiente,temp_media_c,precipitacao_mm,feriado,taxa_desemprego,renda_mediana_domiciliar,LAW_CAT_CD
+1,Manhattan,Noite,Segunda-feira,false,34,27,18,Via Pública,21.5,0.0,false,4.2,85000.00,FELONY
+2,Brooklyn,Tarde,Terça-feira,false,45,31,12,Comercial,23.1,1.2,false,5.1,68000.00,MISDEMEANOR
+3,Queens,Manhã,Quarta-feira,false,29,24,8,Transporte,19.8,0.0,false,4.8,72000.00,VIOLATION
+4,Bronx,Madrugada,Quinta-feira,false,52,35,25,Residencial,17.4,3.5,false,7.2,48000.00,FELONY
+5,Staten Island,Tarde,Sexta-feira,false,41,39,15,Outro,24.2,0.0,false,4.0,76000.00,MISDEMEANOR
+6,Manhattan,Manhã,Sábado,true,26,22,6,Via Pública,22.7,0.8,false,4.3,87000.00,VIOLATION
+7,Brooklyn,Noite,Domingo,true,38,30,32,Residencial,20.1,5.4,false,5.3,66000.00,FELONY
+8,Queens,Tarde,Segunda-feira,false,63,42,14,Comercial,25.0,0.0,false,4.9,71000.00,MISDEMEANOR
+9,Bronx,Manhã,Terça-feira,false,31,28,9,Transporte,18.6,2.1,false,7.0,49000.00,VIOLATION
+10,Staten Island,Noite,Quarta-feira,false,47,33,28,Via Pública,16.9,7.3,false,4.1,75000.00,FELONY
+11,Manhattan,Tarde,Quinta-feira,false,36,29,11,Comercial,24.8,0.0,false,4.4,86000.00,MISDEMEANOR
+12,Brooklyn,Madrugada,Sexta-feira,false,,26,7,Outro,15.7,1.7,false,5.4,65000.00,VIOLATION
+13,Queens,Noite,Sábado,true,55,37,35,Residencial,19.2,4.8,false,5.0,70000.00,FELONY
+14,Bronx,Tarde,Domingo,true,22,20,13,Via Pública,26.3,0.0,false,7.4,47000.00,MISDEMEANOR
+15,Staten Island,Manhã,Segunda-feira,false,44,32,5,Transporte,21.9,0.5,false,3.9,77000.00,VIOLATION
+16,Manhattan,Madrugada,Terça-feira,false,33,25,41,Residencial,14.8,9.2,false,4.2,88000.00,FELONY
+17,Brooklyn,Tarde,Quarta-feira,false,50,41,16,Comercial,23.6,0.0,false,5.2,67000.00,MISDEMEANOR
+18,Queens,Manhã,Quinta-feira,false,,23,10,Outro,20.4,2.8,false,4.7,73000.00,VIOLATION
+19,Bronx,Noite,Sexta-feira,false,39,34,30,Via Pública,18.1,6.5,false,7.1,48500.00,FELONY
+20,Staten Island,Tarde,Sábado,true,28,27,17,Comercial,25.7,0.0,false,4.0,75500.00,MISDEMEANOR
+21,Manhattan,Manhã,Domingo,true,61,45,6,Transporte,22.3,1.1,false,4.3,86500.00,VIOLATION
+22,Brooklyn,Noite,Segunda-feira,false,35,29,38,Residencial,17.8,3.9,false,5.5,65500.00,FELONY
+23,Queens,Tarde,Terça-feira,false,48,36,14,Outro,24.5,0.0,false,4.9,71500.00,MISDEMEANOR
+24,Bronx,Madrugada,Quarta-feira,false,27,21,9,Via Pública,16.2,2.4,false,7.3,47500.00,VIOLATION
+25,Staten Island,Noite,Quinta-feira,false,,40,33,Residencial,18.9,8.1,false,4.1,76500.00,FELONY
+26,Manhattan,Tarde,Sexta-feira,false,42,38,12,Comercial,26.1,0.0,false,4.4,87500.00,MISDEMEANOR
+27,Brooklyn,Manhã,Sábado,true,30,24,8,Transporte,21.6,1.9,false,5.3,66500.00,VIOLATION
+28,Queens,Noite,Domingo,true,57,43,240,Via Pública,19.7,4.6,false,4.8,72500.00,FELONY
+29,Bronx,Tarde,Segunda-feira,false,46,35,15,Outro,25.3,0.0,false,7.2,48000.00,MISDEMEANOR
+30,Staten Island,Manhã,Terça-feira,false,24,19,7,Comercial,20.8,0.7,false,4.0,76000.00,VIOLATION
+31,Manhattan,Madrugada,Quarta-feira,false,40,31,360,Residencial,15.3,12.4,false,4.2,89000.00,FELONY
+32,Brooklyn,Tarde,Quinta-feira,false,,28,13,Via Pública,23.9,0.0,false,5.4,67500.00,MISDEMEANOR
+33,Queens,Manhã,Sexta-feira,false,53,39,10,Transporte,22.1,2.2,false,4.9,72000.00,VIOLATION
+34,Bronx,Noite,Sábado,true,32,26,29,Residencial,18.4,78.5,false,7.4,46500.00,FELONY
+35,Staten Island,Tarde,Domingo,true,49,44,16,Comercial,27.0,0.0,true,3.9,77500.00,MISDEMEANOR
+36,Manhattan,Manhã,Segunda-feira,false,37,30,5,Outro,21.2,1.3,false,4.3,88500.00,VIOLATION
+37,Brooklyn,Noite,Terça-feira,false,43,34,34,Via Pública,17.5,65.0,false,5.2,66000.00,FELONY
+38,Queens,Tarde,Quarta-feira,false,25,22,11,Comercial,24.7,0.0,false,4.8,73500.00,MISDEMEANOR
+39,Bronx,Madrugada,Quinta-feira,false,58,46,8,Transporte,16.7,3.1,true,7.1,49000.00,VIOLATION
+40,Staten Island,Noite,Sexta-feira,false,36,29,27,Residencial,19.5,5.7,false,4.1,75000.00,FELONY
